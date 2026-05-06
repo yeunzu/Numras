@@ -1,3 +1,5 @@
 data.pickle filter=lfs diff=lfs merge=lfs -text
 mnist.npz filter=lfs diff=lfs merge=lfs -text
 fashionMnist filter=lfs diff=lfs merge=lfs -text
+fashionMnist/fashion-mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+fashionMnist/fashion-mnist_test.csv filter=lfs diff=lfs merge=lfs -text
